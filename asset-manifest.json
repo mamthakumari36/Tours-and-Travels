@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Tours-and-Travels/static/css/main.ceb73a55.css",
+    "main.js": "/Tours-and-Travels/static/js/main.7520c714.js",
+    "static/js/787.22a5c026.chunk.js": "/Tours-and-Travels/static/js/787.22a5c026.chunk.js",
+    "static/media/video1.mp4": "/Tours-and-Travels/static/media/video1.41064cc6d9b1f16a6ccb.mp4",
+    "static/media/footer.jpg": "/Tours-and-Travels/static/media/footer.ccb442f5382d2b1a17c0.jpg",
+    "static/media/nav-icon.png": "/Tours-and-Travels/static/media/nav-icon.082f7574dfede18d905c.png",
+    "static/media/kashmir.jpg": "/Tours-and-Travels/static/media/kashmir.b7db238fd631d924db4f.jpg",
+    "static/media/about.jpg": "/Tours-and-Travels/static/media/about.f459774484286f191190.jpg",
+    "static/media/Dwarka.webp": "/Tours-and-Travels/static/media/Dwarka.77364acafa4bb795368b.webp",
+    "static/media/pondocherry.jpeg": "/Tours-and-Travels/static/media/pondocherry.cfb959322abdac4e1522.jpeg",
+    "static/media/alleppey.jpeg": "/Tours-and-Travels/static/media/alleppey.c75ff6447a66cae71316.jpeg",
+    "static/media/leh.jpeg": "/Tours-and-Travels/static/media/leh.341e7db7e56f4506d85b.jpeg",
+    "static/media/kasol.jpeg": "/Tours-and-Travels/static/media/kasol.2ee33b3ba2c17887adc6.jpeg",
+    "static/media/thailand.jpg": "/Tours-and-Travels/static/media/thailand.cccce2b561b990827980.jpg",
+    "static/media/gokarna.jpeg": "/Tours-and-Travels/static/media/gokarna.02fdce583a9839f36594.jpeg",
+    "static/media/havelock-island.jpeg": "/Tours-and-Travels/static/media/havelock-island.a2d511bc1977baeea35f.jpeg",
+    "static/media/manali.jpeg": "/Tours-and-Travels/static/media/manali.6f1b125862791f1f4ae6.jpeg",
+    "static/media/goa1.jpeg": "/Tours-and-Travels/static/media/goa1.57d14707dd242c466936.jpeg",
+    "static/media/ayodhya.jpg": "/Tours-and-Travels/static/media/ayodhya.08b0a90e09da2f280e4f.jpg",
+    "static/media/shimla.jpeg": "/Tours-and-Travels/static/media/shimla.fc07d097570bf4c968e4.jpeg",
+    "static/media/ooty.webp": "/Tours-and-Travels/static/media/ooty.4f3a56416f68cb995b2e.webp",
+    "static/media/ujjain.jpg": "/Tours-and-Travels/static/media/ujjain.8544a127884f0dfb6e1d.jpg",
+    "index.html": "/Tours-and-Travels/index.html",
+    "main.ceb73a55.css.map": "/Tours-and-Travels/static/css/main.ceb73a55.css.map",
+    "main.7520c714.js.map": "/Tours-and-Travels/static/js/main.7520c714.js.map",
+    "787.22a5c026.chunk.js.map": "/Tours-and-Travels/static/js/787.22a5c026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb73a55.css",
+    "static/js/main.7520c714.js"
+  ]
+}
